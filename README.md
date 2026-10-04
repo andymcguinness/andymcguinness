@@ -2,7 +2,7 @@
 
 **Data Analyst | Business Intelligence** · Toledo, OH · open to remote, hybrid, and relocation
 
-I turn large, messy operational data into answers people can act on. For 6+ years I worked in a production SQL Server environment at Solera | AutoPoint, where I built the stored procedures, ETL pipelines, and reports behind business dashboards. I also designed a SQL-based marketing engine that increased revenue by 20%. I'm now focused on analytics and BI full time.
+I tell stories with data. For 6+ years I worked in a production SQL Server environment at AutoPoint, where I built the stored procedures, ETL pipelines, and reports behind business decisions. I also designed a SQL-based marketing engine that increased revenue by 20%. I'm now focused on analytics and BI full time.
 
 📫 [andy@andymcguinness.com](mailto:andy@andymcguinness.com) · 🌐 [andymcguinness.com](https://andymcguinness.com) · 💼 [LinkedIn](https://linkedin.com/in/mcguinnessandy)
 
@@ -11,7 +11,7 @@ I turn large, messy operational data into answers people can act on. For 6+ year
 ## What I do
 
 - **Analyze:** SQL-first exploration, root-cause analysis, and statistical testing in Python.
-- **Build:** Power BI reports on clean data models, plus the pipelines that keep them fresh.
+- **Build:** Power BI reports on clean data models, plus the data pipelines behind them.
 - **Explain:** Findings written for non-technical readers, with a clear recommendation.
 
 ## Tools
